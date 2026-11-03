@@ -1,0 +1,3 @@
+- insert:
+    - id: commandcode-usage
+      name: '@local/dsh-commandcode-usage'
