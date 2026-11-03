@@ -3,6 +3,6 @@
 
 # Install
 ```
+git clone https://github.com/kagasu/dsh-commandcode-usage
 dsh plugin --profile desktop add ./dsh-commandcode-usage
 ```
-
